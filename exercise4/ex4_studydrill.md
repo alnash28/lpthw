@@ -1,6 +1,6 @@
 # Exercise 4 Study Drill 
 
-_"When I wrote this program the first time I made a mistake, and Python told me about it like this:"_
+>"When I wrote this program the first time I made a mistake, and Python told me about it like this:"
 
 ```python
 
@@ -10,13 +10,13 @@ Traceback (most recent call last):
 	NameError: name 'car_pool_capacity' is not defined 
 	
 ```
-_"Explain this error in your own words. Make sure to use line numbers and explain 
-why."_
+>"Explain this error in your own words. Make sure to use line numbers and explain 
+why."
 
-h6. *Als Answer* 
-This error has occured due to the _car_pool_capacity_ not existing within this script. The correct variable is 
-reference on line 7 as _carpool_capacity_, therefore this script has encounter an error due to the incorrect 
-variable being used. 
+**Als Answer**
+>This error has occured due to the _car_pool_capacity_ not existing within this script. The correct variable is 
+>reference on line 7 as _carpool_capacity_, therefore this script has encounter an error due to the incorrect 
+>variable being used. 
 
 
 
