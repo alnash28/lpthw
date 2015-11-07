@@ -10,7 +10,8 @@ and what you know, use Python as a calculator.
 4. Notice the math seems "wrong"? There are no fractions, only whole numbers. Find out why by reasearching what a "floating point" number is. 
 
 ```
-A "floating point" number, also called floats, represent real numbers and are written with a decimal point dividing the integer and fractional parts. 
+A "floating point" number, also called floats, represent real numbers and 
+are written with a decimal point dividing the integer and fractional parts. 
 
 ``` 
 

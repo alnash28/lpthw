@@ -1,0 +1,1 @@
+print " I am ready to calculate!", 55.0 *  65.0 * 75.0 / 3 
