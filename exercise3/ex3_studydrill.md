@@ -7,6 +7,11 @@ and what you know, use Python as a calculator.
 
 3. Find something you need to calculate and write a new .py file that does it. 
 
+``` 
+See attached 'ex3.3_calculate.py' 
+
+```
+
 4. Notice the math seems "wrong"? There are no fractions, only whole numbers. Find out why by reasearching what a "floating point" number is. 
 
 ```
