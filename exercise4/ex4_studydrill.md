@@ -13,13 +13,12 @@ Traceback (most recent call last):
 _"Explain this error in your own words. Make sure to use line numbers and explain 
 why."_
 
-```
-*Als Answer* 
+h6. *Als Answer* 
 This error has occured due to the _car_pool_capacity_ not existing within this script. The correct variable is 
 reference on line 7 as _carpool_capacity_, therefore this script has encounter an error due to the incorrect 
 variable being used. 
 
-```
+
 
 1. I used 4.0 for space_in_car, but is that neccesary? What happens if its just 4? 
 
