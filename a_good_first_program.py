@@ -14,4 +14,4 @@
 #print "Yay! Printing."
 #print "I`d much rather you 'not'."
 #print 'I "said" do not touch this.'
-print 'Zed Shaw you are a little arrogant brah'
+print 'Zed Shaw you are an interesting professional.'
