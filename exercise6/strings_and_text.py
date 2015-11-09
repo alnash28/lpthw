@@ -1,4 +1,4 @@
-# Strings and Text
+# Exercise 6 Strings and Text
 
 # While you have alreadu been writing stings, you still do not know what they do. 
 # In this exercise, we create a bunch of complex strings so you can see what they are for. 
