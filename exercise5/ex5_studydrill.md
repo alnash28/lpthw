@@ -11,26 +11,25 @@
 
 3. Search online for all the Python format characters. 
 
-src: https://docs.python.org/2/library/stdtypes.html#id16
+	src: https://docs.python.org/2/library/stdtypes.html#id16
 
-|Conversion |Meaning Notes|
-|-----------|-------------|
-|'d'|Signed integer decimal.|	 
-|'i'|Signed integer decimal.|	 
-|'o'|Signed octal value.|
-|'u'|Obsolete type – it is identical to 'd'.|
-|'x'|Signed hexadecimal (lowercase).|
-|'X'|Signed hexadecimal (uppercase).|
-|'e'|Floating point exponential format (lowercase).|
-|'E'|Floating point exponential format (uppercase).|
-|'f'|Floating point decimal format.|
-|'F'|Floating point decimal format.|
-|'g'|Floating point format. Uses lowercase exponential format if exponent is less than -4 or not less than precision, decimal format otherwise.|
-|'G'|Floating point format. Uses uppercase exponential format if exponent is less than -4 or not less than precision, decimal format otherwise.|
-|'c'|Single character (accepts integer or single character string).|
-|'r'|String (converts any Python object using repr()).|
-|'s'|String (converts any Python object using str()). |
-|'%'|No argument is converted, results in a '%' character in the result.|	 
-
+	|Conversion |Meaning Notes|
+	|-----------|-------------|
+	|'d'|Signed integer decimal.|	 
+	|	'i'|Signed integer decimal.|	 
+	|'o'|Signed octal value.|
+	|'u'|Obsolete type – it is identical to 'd'.|
+	|'x'|Signed hexadecimal (lowercase).|
+	|'X'|Signed hexadecimal (uppercase).|
+	|'e'|Floating point exponential format (lowercase).|
+	|'E'|Floating point exponential format (uppercase).|
+	|'f'|Floating point decimal format.|
+	|'F'|Floating point decimal format.|
+	|'g'|Floating point format. Uses lowercase exponential format if exponent is less than -4 or not less than precision, decimal format otherwise.|
+	|'G'|Floating point format. Uses uppercase exponential format if exponent is less than -4 or not less than precision, decimal format otherwise.|
+	|'c'|Single character (accepts integer or single character string).|
+	|'r'|String (converts any Python object using repr()).|
+	|'s'|String (converts any Python object using str()). |
+	|'%'|No argument is converted, results in a '%' character in the result.|	 
 
 4. Try to write some variables that convert the inches and pounds to centimeters and kilos. Do not just 
