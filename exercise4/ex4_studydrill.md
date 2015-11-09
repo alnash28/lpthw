@@ -10,13 +10,13 @@ Traceback (most recent call last):
 	NameError: name 'car_pool_capacity' is not defined 
 	
 ```
+
 >"Explain this error in your own words. Make sure to use line numbers and explain 
 why."
 
 **Als Answer**
->This error has occured due to the _car_pool_capacity_ not existing within this script. The correct variable is 
->reference on line 7 as _carpool_capacity_, therefore this script has encounter an error due to the incorrect 
->variable being used. 
+>This error has occured due to the  incorrect variable _car_pool_capacity_ being used, which does not exist within this  >script. The correct variable is reference on line 7 as _carpool_capacity_, therefore this script has encounter an error 
+>due to the incorrect variable being used. 
 
 
 

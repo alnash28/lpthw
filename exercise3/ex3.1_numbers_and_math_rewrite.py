@@ -1,6 +1,14 @@
+
+# This statement prints out the the intention of counting chickens 
+
 print " I will now count my chickens:"
 
+# Based on order of operations-PEMDAS, this statement calculates 30/6 then performs 25 + 5
+# The result determines how many Hens have been counted and prints both 
+
 print "Hens", 25 + 30/6 
+
+# Based on order of operations-PEMDAS, this statement calculates 
 print "Roosters", 100 -25 * 3 % 4
 
 print "Now I will count the eggs"
