@@ -33,3 +33,4 @@
 	|'%'|No argument is converted, results in a '%' character in the result.|	 
 
 4. Try to write some variables that convert the inches and pounds to centimeters and kilos. Do not just 
+type in the measurements. Work out the math in Python. 
