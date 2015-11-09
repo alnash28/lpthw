@@ -3,10 +3,10 @@
 
 1. Change all the variables so there isnt the my_ in front. Make sure you change the name everywhere, not just where you used = to set them 
 
-```
- See ex5.1_more_variables_and_printing_rewrite.py
+	```
+ 	See ex5.1_more_variables_and_printing_rewrite.py
 
-``` 
+	``` 
 2. Try more format characters. %r is a very useful one. It`s like saying "print this no matter what."
 
 3. Search online for all the Python format characters. 
