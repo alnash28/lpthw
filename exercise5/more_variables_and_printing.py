@@ -21,3 +21,9 @@ print "His teeth are usually %s depending on the coffee." % my_teeth
 
 # this line is tricky, try to get it exactly right
 print " If I add %d, %d, and %d I get %d. " % (my_age, my_height, my_weight, my_age + my_height, + my_weight)
+
+# This issue I was haveing running this script is explained in Exercise 6. 
+# I get error TypeError: not all arguments converted during string formatting. 
+"""
+	You need to make sure that the line of code is exactly the same. What happens in this error is you have more % format characters in the string than variables to put in them. Go back and figure out what you did wrong. 
+"""
