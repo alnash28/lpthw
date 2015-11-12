@@ -16,10 +16,10 @@
 
 # Common Questions:
 
-1. Couldn`t you just use the comma, and turn the last two lines into one
+1. Couldn' t you just use the comma, and turn the last two lines into one
    single-print line?
 
   ```
-    Yes, you could very easily, but then it`d be longer then 80 characters,
+    Yes, you could very easily, but then it'd be longer then 80 characters,
     which in Python is bad style.
-  ``` 
+  ```
